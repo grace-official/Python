@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e970090-2ab2-4625-9623-07c6e70ae483" name="Changes" comment="" />
+    <list default="true" id="1833b12b-03bb-4358-93ea-0cdbbf209e63" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FBW6XPHs6FtBnBxBBjZvNz4NBH" />
+  <component name="ProjectId" id="2FBYz5IFtqLQopYxPyIYq7poDQc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,12 +28,23 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8e970090-2ab2-4625-9623-07c6e70ae483" name="Changes" comment="" />
-      <created>1663965782705</created>
+      <changelist id="1833b12b-03bb-4358-93ea-0cdbbf209e63" name="Changes" comment="" />
+      <created>1663967203763</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663965782705</updated>
+      <updated>1663967203763</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
