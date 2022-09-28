@@ -1,16 +1,20 @@
-# This is a sample Python script.
+# Python introductory data structures
+# Heterogeneous (allow diverse data types)
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# ITERABLE
 
+# type 1: LISTS [] (ordered, changable, allows duplicates)
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+'''
+data = [1,2,3,4,5]
+print(data)
+print(type(data))
+print(len(data))
+data.remove(3)
+print(data)
+'''
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+data = [1,5,7,2,54,8,9,3]
+print(data)
+data.sort(reverse = True)
+print(data)
