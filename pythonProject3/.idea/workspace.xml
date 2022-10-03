@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f036d625-c833-4405-9c35-e0e76ba261ce" name="Changes" comment="" />
+    <list default="true" id="5446edd6-1fd4-40de-9b7b-2e78b3964f74" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,15 +13,21 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FPjtwT8rye0fqEwrqgXEB44n2y" />
+  <component name="ProjectId" id="2FdDB2JLxsQyiB7P1ZBJNlypY3Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
   <component name="RunManager">
-    <configuration name="DataStructurePractice" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="pythonProject2" />
+    <configuration name="IteratingDataPractice" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -32,7 +38,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\g.egglestone\Documents\GitHub\Python\pythonProject2\DataStructurePractice.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\g.egglestone\Documents\GitHub\Python\pythonProject3\IteratingDataPractice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -45,11 +51,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f036d625-c833-4405-9c35-e0e76ba261ce" name="Changes" comment="" />
-      <created>1664400831701</created>
+      <changelist id="5446edd6-1fd4-40de-9b7b-2e78b3964f74" name="Changes" comment="" />
+      <created>1664812927855</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664400831701</updated>
+      <updated>1664812927855</updated>
     </task>
     <servers />
   </component>
