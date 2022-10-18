@@ -1,7 +1,11 @@
 # Sales Tax Calculator
 class SalesTax:
+
+        def __init__(self):
+                 pass
+
         # getter for tax
-        countryTax = float(input("Enter your countries tax below: \n"))
+         countryTax = float(input("Enter your countries tax below: \n"))
 
         # Item value
         itemPrice = float(input("Enter the price of the item you're calculating: \n"))
