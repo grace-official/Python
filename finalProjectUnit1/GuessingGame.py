@@ -3,8 +3,10 @@ import random
 
 def GuessOption():
 
+    # program picks a num between 1-100
     randomNumber = random.randint(1, 100)
     guess = 0
+    # determines if your guess was right
     while guess != randomNumber:
         guess = int(input("Guess a number between 1 and 100! : \n"))
 

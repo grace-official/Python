@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="362fc9ce-14c2-4972-8e6e-60bb17b384aa" name="Changes" comment="" />
+    <list default="true" id="362fc9ce-14c2-4972-8e6e-60bb17b384aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../finalProjectUnit1/Arrays/ArrayScript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalProjectUnit1/Classes/PersonScript.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finalProjectUnit1/Casting/CastScript.py" beforeDir="false" afterPath="$PROJECT_DIR$/../finalProjectUnit1/Casting/CastScript.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finalProjectUnit1/LoopScripts/GuessingGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/../finalProjectUnit1/LoopScripts/GuessingGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finalProjectUnit1/LoopScripts/LoopMenu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../finalProjectUnit1/LoopScripts/LoopMenu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finalProjectUnit1/TaxCalScripts/FinancesMenu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../finalProjectUnit1/TaxCalScripts/FinancesMenu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,13 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/g.egglestone/OneDrive - School District No. 36 (Surrey)/GitHub/Python/pythonProject8"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/grace/Documents/GitHub/Python/pythonProject8&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Messages (1)">
     <configuration name="Messages (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject7" />
