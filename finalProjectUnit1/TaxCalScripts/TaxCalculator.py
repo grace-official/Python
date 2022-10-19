@@ -1,27 +1,23 @@
 # Sales Tax Calculator
-class SalesTax:
+def TaxOption():
+    # getter for tax
+    countryTax = float(input("Enter your countries tax below: \n"))
 
-        def __init__(self):
-                 pass
+    # Item value
+    itemPrice = float(input("Enter the price of the item you're calculating: \n"))
 
-        # getter for tax
-         countryTax = float(input("Enter your countries tax below: \n"))
+    # real tax number
+    realTax = countryTax / 100
 
-        # Item value
-        itemPrice = float(input("Enter the price of the item you're calculating: \n"))
+    # tax calculations
+    salesTax = realTax * itemPrice
 
-        # real tax number
-        realTax = countryTax / 100
+    # calculating final price
+    finalPrice = itemPrice + salesTax
 
-        # tax calculations
-        salesTax = realTax * itemPrice
-
-        # calculating final price
-        finalPrice = itemPrice + salesTax
-
-        print("\n~~~~~~~~~~calculating~~~~~~~~~~")
-        print("The price of your item is: ${:,.2f}".format(itemPrice))
-        print("The price of tax is: ${:,.2f}".format(realTax))
-        print("The price of your sales tax is: ${:,.2f}".format(salesTax))
-        print("The price of your item plus tax is: ${:,.2f}".format(finalPrice))
+    print("\n~~~~~~~~~~calculating~~~~~~~~~~")
+    print("The price of your item is: ${:,.2f}".format(itemPrice))
+    print("The price of tax is: ${:,.2f}".format(realTax))
+    print("The price of your sales tax is: ${:,.2f}".format(salesTax))
+    print("The price of your item plus tax is: ${:,.2f}".format(finalPrice))
 

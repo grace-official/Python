@@ -1,15 +1,14 @@
 # bank balance checker
-class BankBalance:
+def BankOption():
     # getter for bank balance
-    def __init__(self):
-        pass
+    totalBalance = float(input("Enter your bank balance below: \n"))
 
-    def BankCal(self):
-        totalBalance = float(input("Enter your bank balance below: \n"))
+    # Item value
+    itemPrice = float(input("Enter the price of the item you wish to buy: \n"))
 
-        # Item value
-        itemPrice = float(input("Enter the price of the item you wish to buy: \n"))
+    # calculating the amount you can purchase
+    totalAmount = totalBalance / itemPrice
 
-        # calculating the amount you can purchase
-
+    print("\n~~~~~~~~~~calculating~~~~~~~~~~")
+    print("The amount of items you can buy is: {:,.2f}".format(totalAmount))
 

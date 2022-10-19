@@ -1,12 +1,12 @@
-class gradeCalculator:
+def GradeOption():
     for i in range(0, 100):
 
-        #getting grade precentage
-        grade = float(input("What is your grade precentage? \n"))
+        # getting grade percentage
+        grade = int(input("What is your grade percentage? \n"))
 
-        #determines letter grade
+        # determines letter grade
         if grade < 0 or grade > 100:
-            print("Uhh.. I don't think thats possible. Please try again. \n")
+            print("Uhh.. I don't think that's possible. Please try again. \n")
 
         elif grade <= 100 and grade >= 86:
             print("Congrats! you are getting an A!")
@@ -25,4 +25,7 @@ class gradeCalculator:
 
         elif grade <= 49 and grade >= 0:
             print("Oh No! You're Failing!  :(")
+
+        else:
+            break
 
