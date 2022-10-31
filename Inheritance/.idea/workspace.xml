@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcc02c26-68a9-4c15-aaf2-c5ff625c272a" name="Changes" comment="" />
+    <list default="true" id="c9dff3be-41c5-4950-a8b5-44e200202cfc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -13,7 +20,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FBZYt2fjBxdBoWm08r7amUMWrk" />
+  <component name="ProjectId" id="2GuR6AXva3ap0gbUHhjk1koWXmm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,14 +28,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/g.egglestone/OneDrive - School District No. 36 (Surrey)/GitHub/textBasedAdventure/textAdventure"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\g.egglestone\OneDrive - School District No. 36 (Surrey)\GitHub\Python\Inheritance" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="ConditionalPractice" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="ConditionalLogic" />
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Inheritance" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -39,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\g.egglestone\Documents\GitHub\Python\ConditionalLogic\ConditionalPractice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,11 +62,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fcc02c26-68a9-4c15-aaf2-c5ff625c272a" name="Changes" comment="" />
-      <created>1663967488674</created>
+      <changelist id="c9dff3be-41c5-4950-a8b5-44e200202cfc" name="Changes" comment="" />
+      <created>1667236304215</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663967488674</updated>
+      <updated>1667236304215</updated>
     </task>
     <servers />
   </component>
